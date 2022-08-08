@@ -35,8 +35,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/xBQQwNq.gif' />
 
-GIF created with [https://imgur![xBQQwNq - Imgur](https://user-images.githubusercontent.com/107807964/183321773-29b2645e-3306-4dc9-a587-6d36c57167dc.gif)
-.com/xBQQwNq.gif).
+GIF created with [![xBQQwNq - Imgur](https://user-images.githubusercontent.com/107807964/183321971-2acfaeb6-01d1-4004-bc99-4f983d473fa0.gif)
+]
 
 ## Notes
 
