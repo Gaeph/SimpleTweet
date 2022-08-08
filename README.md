@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/xBQQwNq.gif' />
+<img src='https://imgur.com/xBQQwNq.gif'/>
 
 GIF created with [![xBQQwNq - Imgur](https://user-images.githubusercontent.com/107807964/183321971-2acfaeb6-01d1-4004-bc99-4f983d473fa0.gif)
 ]
